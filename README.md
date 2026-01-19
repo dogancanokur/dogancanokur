@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dogan aka faecon</h1>
-<h3 align="center">a passionate fullstack developer from istanbul</h3>
+<h3 align="center">a passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogancanokur&label=Profile%20views&color=62fcfe&style=plastic" alt="dogancanokur" /> </p>
 
